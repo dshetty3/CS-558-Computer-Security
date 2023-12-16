@@ -45,4 +45,6 @@ This course provides an introduction to the fundamental concepts of computer sec
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/intro-to-security-course.git
+   git clone https://github.com/dshetty3/CS-558-Intro-to-Computer-Security.git
+
+   Check README.txt file for each uploaded file for this course (Detailed explanation provided)
